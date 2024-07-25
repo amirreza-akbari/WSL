@@ -1,6 +1,6 @@
 # Windows Subsystem for Linux (WSL) Guide
 
-![WSL Logo]<img src="https://upload.wikimedia.org/wikipedia/de/thumb/9/94/Logo_WSL.svg/600px-Logo_WSL.svg.png?20090106000923"  height='50' />
+<img src="https://upload.wikimedia.org/wikipedia/de/thumb/9/94/Logo_WSL.svg/600px-Logo_WSL.svg.png?20090106000923"  height='200' />
 This repository contains guides and instructions for setting up and using Windows Subsystem for Linux (WSL).
 
 ## 📑 Table of Contents
