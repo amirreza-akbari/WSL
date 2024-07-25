@@ -30,4 +30,4 @@ Get familiar with common WSL commands with our [Common Commands Guide](guides/co
 Contributions are welcome! Please read the contributing guidelines first.
 
 
-![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
+![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png) 
